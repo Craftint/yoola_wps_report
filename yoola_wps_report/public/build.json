@@ -1,0 +1,5 @@
+{
+  "js/wps_report.min.js": [
+    "public/js/wps_report/utils/tools.js"
+  ]
+}

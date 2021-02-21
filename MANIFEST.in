@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include yoola_wps_report *.css
+recursive-include yoola_wps_report *.csv
+recursive-include yoola_wps_report *.html
+recursive-include yoola_wps_report *.ico
+recursive-include yoola_wps_report *.js
+recursive-include yoola_wps_report *.json
+recursive-include yoola_wps_report *.md
+recursive-include yoola_wps_report *.png
+recursive-include yoola_wps_report *.py
+recursive-include yoola_wps_report *.svg
+recursive-include yoola_wps_report *.txt
+recursive-exclude yoola_wps_report *.pyc
